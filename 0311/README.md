@@ -17,4 +17,4 @@
 
 ## 4. 과제 및 발표 주제
 - **Report**: 깃허브 디렉토리에 build 호스팅.
-- **발표**: Git & SourceTree 사용법 (commit, branch, merge 등).
+- **발표**: Git & SourceTree 사용법 (commit, branch, merge 등). 
